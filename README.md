@@ -72,3 +72,18 @@ When you're all finished, write a `README` file detailing all steps required to 
 # Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+
+
+
+## How to run this program
+
+* First and Foremost, to run this program, you need to download or clone this git repository.
+
+* Then open the `index.html` file and run it in your browser, a page should load showing you the page and the the Jasmine 
+    specs at the bottom.
+
+* The `js/app.js` file contains the functionality of the web app while the `jasmine/spec/feedreader.js` file contains the test      suites,the css folders contains the styling used for the web app.
+
+* `Jasmine 3.3.0` was used for the testing.
+
+* comments are included in the `feedreader.js` file to explain the functionalities of the tests.
